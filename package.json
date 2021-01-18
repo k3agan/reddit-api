@@ -1,0 +1,27 @@
+{
+  "name": "reddit-api",
+  "version": "1.0.0",
+  "description": "exploring subreddits using the reddit api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k3agan/reddit-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k3agan/reddit-api/issues"
+  },
+  "homepage": "https://github.com/k3agan/reddit-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  }
+}
